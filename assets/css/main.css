@@ -1655,7 +1655,7 @@
 	}
 
 		header.special:before, header.special:after {
-			border-bottom: solid 1.5px;
+			border-bottom: solid 3px;
 			border-top: solid 0.5px;
 			content: '';
 			height: 5px;
